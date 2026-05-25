@@ -183,7 +183,7 @@ Historical daily stock prices of 10 major Hong Kong listed companies.
 * Columns: 11
 
 ---
-
+# File names "HongKong_2.csv", "Indian_2.csv", "Japan_2.csv","UK_2.csv", "USA_2.csv" are provided for out-of-sample test.
 # Data Format
 
 * The first column (`Date`) represents the trading date.
